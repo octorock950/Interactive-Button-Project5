@@ -1,0 +1,21 @@
+
+
+.secondary {
+    width: 25vw;
+    height: 98vh;
+    background-color: rgba(0, 255, 255, 0.345);
+    text-align: center;
+    padding-top: 1px;
+    margin-right: 5vw;
+    border: rgba(0, 170, 170, 0.389)
+
+
+}
+
+body {
+    background-color: rgb(255, 214, 221);
+    font-family: Papyrus,fantasy;
+    display: flex;
+    align-content: right;
+    justify-content: right;
+}
